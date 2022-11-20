@@ -15,6 +15,6 @@
 
 **Team Memeber :    ARSHITHA.A**
 
-**Team Member  :    JANISHA.M**
+**Team Member  :    JANISHA.M
 
-:heavy_check_mark:**Demo Link:[CLICK HERE!](https://drive.google.com/file/d/1J0aqoI3q-GEsyu-75VmDa-_VViVPlUoS/view?usp=drivesdk)**
+:link:**Demo Link:[CLICK HERE!](https://drive.google.com/file/d/1J0aqoI3q-GEsyu-75VmDa-_VViVPlUoS/view?usp=drivesdk)**
