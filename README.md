@@ -1,7 +1,7 @@
 # IBM-Project-40197-1660625649
 # SmartFarmer - IoT Enabled Smart Farming application
 
-![istockphoto-1320570592-170667a (1)](https://user-images.githubusercontent.com/113232776/202894460-fc489757-f3ae-4430-b346-37198a34cd90.jpg)
+![smart-farming-big-data-iot-1](https://user-images.githubusercontent.com/113232776/202894561-cd5a6df7-6801-4435-945d-2b4df5fe0776.jpg)
 
 TECHNOLOGY : IOT
 
