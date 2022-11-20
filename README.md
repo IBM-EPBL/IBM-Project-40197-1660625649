@@ -23,6 +23,6 @@
 
 :link:**Node RED Dashboard:[CLICK HERE!](https://node-red-ewoqv-2022-11-08.au-syd.mybluemix.net/ui/#!/0?socketid=24t07WKJpEQgkROoAAAV)**
 
-:link:**MIT App Inventor:[CLICK HERE!](http://ai2.appinventor.mit.edu/#5209251724001280)
+:link:**MIT App Inventor:[CLICK HERE!](http://ai2.appinventor.mit.edu/#5209251724001280)**
 
 :link:**Demo Link:[CLICK HERE!](https://drive.google.com/file/d/1J0aqoI3q-GEsyu-75VmDa-_VViVPlUoS/view?usp=drivesdk)**
