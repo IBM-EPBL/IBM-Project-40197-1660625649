@@ -7,3 +7,11 @@
 
 ## Team ID : PNT2022TMID34110
 
+## Team size : 4
+
+## Team Member : ABINI BREEN.E
+
+## Team Memeber : ARSHITHA.A
+
+## Team Member : JANISHA.M
+
