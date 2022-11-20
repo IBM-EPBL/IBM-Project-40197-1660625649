@@ -13,7 +13,7 @@
 
 **Team Member  :    ABINI BREEN.E**
 
-**Team Memeber :    ARSHITHA.A**
+**Team Member :    ARSHITHA.A**
 
 **Team Member  :    JANISHA.M**
 
